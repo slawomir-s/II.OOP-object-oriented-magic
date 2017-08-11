@@ -1,0 +1,28 @@
+{
+  "name": "opp",
+  "version": "1.0.0",
+  "description": "Install grunt to project",
+  "main": "Grunfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slawomir-s/II.OOP-object-oriented-magic.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Slawomir S.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slawomir-s/II.OOP-object-oriented-magic/issues"
+  },
+  "homepage": "https://github.com/slawomir-s/II.OOP-object-oriented-magic#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
